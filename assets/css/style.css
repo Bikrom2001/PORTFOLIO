@@ -745,7 +745,7 @@ section {
 }
 
 .template-info {
-  padding: 2.5rem 3.5rem;
+  padding: 1.5rem 3.5rem;
   margin-right: auto;
   margin-bottom: 2rem;
   margin-left: auto;
@@ -983,6 +983,7 @@ section {
 
 .portfolio .portfolio-wrap img {
   transition: all ease-in-out 0.3s;
+  cursor: pointer;
 }
 
 .portfolio .portfolio-wrap .portfolio-info {
@@ -999,6 +1000,7 @@ section {
   justify-content: flex-end;
   align-items: flex-start;
   padding: 20px;
+  cursor: pointer;
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
